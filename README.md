@@ -3,41 +3,41 @@
 [Tyler Rhodes (my blog)](https://tylerrhodes.net)
 
 
-# C# Blogs
+## C# Blogs
 
 
 
 
-# ASP.NET Blogs
-
-
-
-
-
-# Golang Blogs
+## ASP.NET Blogs
 
 
 
 
 
-# Business Blogs
+## Golang Blogs
 
 
 
 
 
-
-# Writing Blogs
-
-
-
-
-
-# General Tech Blogs
+## Business Blogs
 
 
 
 
 
 
-# Misc.
+## Writing Blogs
+
+
+
+
+
+## General Tech Blogs
+
+
+
+
+
+
+## Misc.
