@@ -12,6 +12,7 @@
 ## Computer Science Blogs
 
 [Matt Might](http://matt.might.net/articles/)
+
 [The Morning Paper](https://blog.acolyer.org/)
 
 
