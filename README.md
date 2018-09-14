@@ -15,6 +15,8 @@
 
 [The Morning Paper](https://blog.acolyer.org/)
 
+[Dan Luu](https://danluu.com/)
+
 
 ## Programming Language Blogs
 
