@@ -17,6 +17,7 @@
 
 [Dan Luu](https://danluu.com/)
 
+[Embedded in Academia](https://blog.regehr.org/)
 
 ## Programming Language Blogs
 
