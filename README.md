@@ -8,6 +8,12 @@
 [The Morning Brew](http://blog.cwa.me.uk/)
 
 
+## Emacs
+[Emacs Redux](https://emacsredux.com/)
+
+
+## Clojure
+
 
 ## Computer Science Blogs
 
